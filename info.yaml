@@ -30,8 +30,8 @@ pinout:
   uo[1]: "1 gate delay"
   uo[2]: "2 gate delay"
   uo[3]: "4 gate delay"
-  uo[4]: ""
-  uo[5]: ""
+  uo[4]: "8 gate delay"
+  uo[5]: "16 gate delay"
   uo[6]: ""
   uo[7]: ""
 
